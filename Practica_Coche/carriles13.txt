@@ -1,0 +1,14 @@
+SORPRESA 6 11 9 7 5 3 1
+CLAVO 6 2 4 6 8 10 12
+XX
+
+Longitud de la carretera = 13
+Posicion del coche 11
+
+Solucion:
+
+| SCSCSCSCSCSC|
+|           A |
+
+
+Leyenda: C -> coche; S -> sorpresa; A -> coche (automovil)
